@@ -13,6 +13,7 @@ module.exports = {
     "You need to read this if you haven't already. https://medium.com/the-odin-project/learning-to-code-when-youre-really-dang-busy-e223a7f84758",
     'Introduction to DESIGN PATTERNS (in Ruby) http://www.chadkreutzer.com/crack-in-the-code/coding/Introduction-to-Design-Patterns.html',
     'Odin redesign underway: https://medium.com/the-odin-project/here-comes-ragnarok-a23744f9dcb9',
-    'Why not follow us on Medium? https://medium.com/the-odin-project'
+    'Why not follow us on Medium? https://medium.com/the-odin-project',
+    'Use it or Lose it: https://medium.com/@codyloyd/use-it-or-lose-it-121f15b8cbe1'
   ]
 };
